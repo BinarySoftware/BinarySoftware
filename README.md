@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+God please don't say JS is my most-used language 😒
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinarySoftware&theme=buefy&layout=compact)
+
 <!--
 **BinarySoftware/BinarySoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with Enso Team!
+- 🌱 I’m currently studying CS @ AGH UST in Krakow
+
 God please don't say JS is my most-used language 😒
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinarySoftware&theme=buefy&layout=compact)

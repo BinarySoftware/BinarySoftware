@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Enso Team!
-- 🌱 I’m currently studying CS @ AGH UST in Krakow
+My name is Maciej, I'm 20. 
+I've 4 years of experience, working with most amazing people @ [Enso](enso.org). 
+I'm also student of 3rd year of applied CS in physics @ UST AGH in Krakow.
 
-God please don't say JS is my most-used language 😒
+God please don't say JS is my most-used language hahah
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinarySoftware&theme=buefy&layout=compact)
 
